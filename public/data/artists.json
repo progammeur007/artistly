@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "category": "Singer",
+    "priceRange": "₹10,000 - ₹20,000",
+    "location": "Mumbai",
+    "languages": ["Hindi", "English"],
+    "image": "https://images.unsplash.com/photo-1602025747027-bce6e5dc32b9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1hbGUlMjBzaW5nZXJ8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 2,
+    "name": "Meera Kapoor",
+    "category": "Dancer",
+    "priceRange": "₹15,000 - ₹25,000",
+    "location": "Delhi",
+    "languages": ["Hindi"],
+    "image": "https://images.unsplash.com/photo-1547153760-18fc86324498?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFuY2VyfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 3,
+    "name": "Rohit Verma",
+    "category": "Speaker",
+    "priceRange": "₹20,000 - ₹35,000",
+    "location": "Bangalore",
+    "languages": ["English"],
+    "image": "https://images.unsplash.com/photo-1560439514-e960a3ef5019?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c3BlYWtlcnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Priya Nair",
+    "category": "DJ",
+    "priceRange": "₹30,000 - ₹50,000",
+    "location": "Chennai",
+    "languages": ["Tamil", "English"],
+    "image": "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmVtYWxlJTIwZGp8ZW58MHx8MHx8fDA%3D"
+  }
+]

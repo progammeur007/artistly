@@ -1,0 +1,59 @@
+.container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.heading {
+  font-size: 2rem;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.inputGroup {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputGroup label {
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.inputGroup input,
+.inputGroup textarea,
+.inputGroup select {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.inputGroup p {
+  color: red;
+  font-size: 0.85rem;
+  margin-top: 4px;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.submitBtn {
+  background-color: #6a0dad;
+  color: white;
+  padding: 12px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
