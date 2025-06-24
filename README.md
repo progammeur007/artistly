@@ -38,7 +38,7 @@
 ## 📦 Installation & Running Locally
 
 ```bash
-git clone https://github.com/yourusername/artistly.git
+git clone https://github.com/progammeur007/artistly.git
 cd artistly
 npm install
 npm run dev
